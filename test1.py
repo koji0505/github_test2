@@ -1,2 +1,2 @@
 print("test1")
-print("add_page")
+print("_add_page")
